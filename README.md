@@ -9,7 +9,7 @@
   <img src="/Preview/4.PNG" width="45%" />
   <img src="/Preview/5.PNG" width="45%" />
   <img src="/Preview/6.PNG" width="45%" />
-   <img src="/Preview/7.PNG" width="30%" />
+   <img src="/Preview/7.PNG" width="45%" />
   <img src="/Preview/8.PNG" width="45%" />
   <img src="/Preview/9.PNG" width="45%" />
   <img src="/Preview/10.PNG" width="45%" />
